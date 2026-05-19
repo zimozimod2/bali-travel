@@ -1,0 +1,6 @@
+Project URL : https://nbbeodayyexzndcsimwa.supabase.co
+
+
+
+Anon Public Key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5iYmVvZGF5eWV4em5kY3NpbXdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxMTM3NjksImV4cCI6MjA5NDY4OTc2OX0.UcpGnG0jjZY4Be3cgFmOVXkew5VagL7hYM9yJEF7PWI
+

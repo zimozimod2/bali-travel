@@ -1,0 +1,19 @@
+@index.html
+
+아래 Supabase 프로젝트와 연결해줘.
+
+Supabase URL: [복사한 Project URL]
+Supabase Key: [복사한 anon public 키]
+
+CDN 방식으로 Supabase JS 라이브러리를 불러오고
+Supabase 클라이언트를 초기화하는 코드를 추가해줘.
+UI는 건드리지 말고 연결 코드만 추가해줘.
+
+-->>>
+
+@index.html
+
+아까 만든 문의 폼이 제출될 때
+로컬스토리지 대신 Supabase contact 테이블에
+name, content를 저장하도록 바꿔줘.
+저장 후 "문의가 접수되었습니다!" 메시지 표시.
